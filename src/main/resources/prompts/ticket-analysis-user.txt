@@ -1,0 +1,7 @@
+<ticket>
+Priority: {{priority}}
+Product: {{product}}
+Subject: {{subject}}
+Description: {{description}}
+</ticket>
+Analyze the ticket above and return the JSON object.
